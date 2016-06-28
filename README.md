@@ -13,6 +13,6 @@ es una oportunidad para estudiar, generar experiencia y por que no dinero.
 travis-ci.org
 
 [Roadmap]
-https://trello.com/
+https://trello.com/b/vKzfNjeM/actividades
 
 [Licencia]
